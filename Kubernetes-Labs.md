@@ -10,13 +10,11 @@ Create a pod named nginx-pod using the image nginx:latest.
 The Nautilus DevOps team is delving into Kubernetes for app management. One team member needs to create a deployment following these details:
 Create a deployment named httpd to deploy the application httpd using the image httpd:latest (ensure to specify the tag)
 
-
-### Lab 3 - 
+### Lab 3 - Setup Kubernetes Namespaces and PODs
 The Nautilus DevOps team is planning to deploy some micro services on Kubernetes platform. The team has already set up a Kubernetes cluster and now they want to set up some namespaces, deployments etc. Based on the current requirements, the team has shared some details as below:
 Create a namespace named dev and deploy a POD within it. Name the pod dev-nginx-pod and use the nginx image with the latest tag. Ensure to specify the tag as nginx:latest.
 
 
-### Lab 3 - Setup Kubernetes Namespaces and PODs
 
 ### Lab 4 - Set Resource Limits in Kubernetes Pods  
 ### Lab 5 - Execute Rolling Updates in Kubernetes  
