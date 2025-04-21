@@ -17,6 +17,10 @@ Create a namespace named dev and deploy a POD within it. Name the pod dev-nginx-
 
 
 ### Lab 4 - Set Resource Limits in Kubernetes Pods  
+Set the following resource limits on httpd:latest pod:  
+Requests: Memory: 15Mi, CPU: 100m  
+Limits: Memory: 20Mi, CPU: 100m
+
 ### Lab 5 - Execute Rolling Updates in Kubernetes  
 ### Lab 6 - Revert Deployment to Previous Version in Kubernetes  
 ### Lab 7 - Deploy Replica Set in Kubernetes Cluster  
